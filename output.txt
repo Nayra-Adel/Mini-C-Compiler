@@ -1,0 +1,17 @@
+List Of errors:
+
+
+List Of Tokens:
+
+<ID> : 
+x
+<ASSIGN_OPERATOR> : 
+=
+<INTEGRAL_LITERAL> : 
+7
+<ASTERICK> : 
+*
+<INTEGRAL_LITERAL> : 
+3
+<SEMICOLON> : 
+;
